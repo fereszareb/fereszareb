@@ -1,11 +1,11 @@
-[![](https://github.com/fereszareb/presentation/blob/main/header.svg)](#)
+[![](https://github.com/fereszareb/presentation/blob/main/header.svg)]()
 
 
 I'm Feres Zareb , Software engineering and information systems Student , passionate in web development , problem solving and graphic design. I love to learn new things and read about new technology.
 ###
 
 
-[![](https://github.com/fereszareb/presentation/blob/main/goals.svg)](#)
+[![](https://github.com/fereszareb/presentation/blob/main/goals.svg)]()
 
 
 
