@@ -11,6 +11,10 @@ I wanna learn more and improve my skills to find a good opportunity and satisfy 
 ### Languages and Tools :
 - JavaScript
 - Bootstrap
+- ReactJs
+- NodeJs
+- ExpressJS
+- MongoDB
 - Angular
 - Spring Boot
 - Java
